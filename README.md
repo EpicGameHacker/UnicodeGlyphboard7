@@ -1,4 +1,4 @@
 # UnicodeGlyphboard7
-Based off of http://mrgan.com/gb/
+Based off of the original [Glyphboard](http://mrgan.com/gb/).
 
 Glyphboard 2.0
